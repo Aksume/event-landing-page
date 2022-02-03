@@ -1,0 +1,15 @@
+/* .footer1{
+    background:rgb(12, 89, 141);
+    height: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.ClearStatement{
+background-image: url(../IMG/mountains-bg.png);
+} */
+#jumbotron {
+    background: #ecf1f5 url("/IMG/mountains-bg.png") no-repeat center / contain;
+}
+
